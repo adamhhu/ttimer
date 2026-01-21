@@ -7,6 +7,7 @@ Welcome to TTimer, a small terminal based timer written in Rust.
 <details>
 1. You need to install Rust to be able to compile the code.
 Install it however you like or by using the official install script below
+  
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
